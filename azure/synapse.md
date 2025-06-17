@@ -39,7 +39,7 @@ Azure Synapse enables organizations to process and analyze large volumes of data
 **Learn More:** [Azure Synapse Big Data Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-overview)
 
 **Image Reference:**
-![Azure Synapse Big Data Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/media/spark/apache-spark-overview.png)
+![Azure Synapse Big Data Analytics](https://learn.microsoft.com/en-us/training/wwl-data-ai/understand-big-data-engineering-with-apache-spark-azure-synapse-analytics/media/synapse-spark-architecture.png)
 
 ---
 
