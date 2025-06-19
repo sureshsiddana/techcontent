@@ -1,7 +1,6 @@
 {
   "python": [
-    { "title": "Guide", "path": "python/guide.md" },
-    { "title": "Topics Index", "path": "python/topics.md" },
+    { "title": "Overview", "path": "python/guide.md" },   
     { "title": "Context Managers", "path": "python/topics/context_managers.md" },
     { "title": "Control Flow", "path": "python/topics/control_flow.md" },
     { "title": "Data Structures", "path": "python/topics/data_structures.md" },
@@ -29,8 +28,7 @@
     { "title": "Web Scraping", "path": "python/topics/web_scraping.md" }
   ],
   "azure": [
-    { "title": "Guide", "path": "azure/guide.md" },
-    { "title": "Topics Index", "path": "azure/topics.md" },
+    { "title": "Overview", "path": "azure/guide.md" },
     { "title": "Fundamentals", "path": "azure/topics/fundamentals.md" },
     { "title": "Resource Groups", "path": "azure/topics/resource_groups.md" },
     { "title": "Virtual Machines", "path": "azure/topics/virtual_machines.md" },
@@ -49,8 +47,7 @@
     { "title": "Interview Questions", "path": "azure/topics/interview_questions.md" }
   ],
   "SQL": [
-    { "title": "Guide", "path": "sql/guide.md" },
-    { "title": "Topics Index", "path": "sql/topics.md" },
+    { "title": "Overview", "path": "sql/guide.md" },    
     { "title": "SQL Basics", "path": "sql/topics/basics.md" },
     { "title": "DDL (Data Definition Language)", "path": "sql/topics/ddl.md" },
     { "title": "DML (Data Manipulation Language)", "path": "sql/topics/dml.md" },
@@ -74,8 +71,7 @@
     { "title": "Interview Questions", "path": "sql/topics/interview_questions.md" }
   ],
   "JavaScript": [
-    { "title": "Guide", "path": "javascript/guide.md" },
-    { "title": "Topics Index", "path": "javascript/topics.md" },
+    { "title": "Overview", "path": "javascript/guide.md" },   
     { "title": "JavaScript Basics", "path": "javascript/topics/basics.md" },
     { "title": "Variables & Data Types", "path": "javascript/topics/variables_data_types.md" },
     { "title": "Operators", "path": "javascript/topics/operators.md" },
@@ -99,8 +95,7 @@
     { "title": "Interview Questions", "path": "javascript/topics/interview_questions.md" }
   ],
   "jQuery": [
-    { "title": "Guide", "path": "jquery/guide.md" },
-    { "title": "Topics Index", "path": "jquery/topics.md" },
+    { "title": "Overview", "path": "jquery/guide.md" },  
     { "title": "jQuery Basics", "path": "jquery/topics/basics.md" },
     { "title": "Selectors", "path": "jquery/topics/selectors.md" },
     { "title": "DOM Manipulation", "path": "jquery/topics/dom_manipulation.md" },
@@ -115,8 +110,7 @@
     { "title": "Interview Questions", "path": "jquery/topics/interview_questions.md" }
   ],
   "AI": [
-    { "title": "Guide", "path": "ai/guide.md" },
-    { "title": "Topics Index", "path": "ai/topics.md" },
+    { "title": "Overview", "path": "ai/guide.md" },    
     { "title": "AI Basics", "path": "ai/topics/basics.md" },
     { "title": "History of AI", "path": "ai/topics/history.md" },
     { "title": "Types of AI (Narrow, General, Super)", "path": "ai/topics/types.md" },
@@ -134,8 +128,7 @@
     { "title": "Interview Questions", "path": "ai/topics/interview_questions.md" }
   ],
   "GenAI": [
-    { "title": "Guide", "path": "genai/guide.md" },
-    { "title": "Topics Index", "path": "genai/topics.md" },
+    { "title": "Overview", "path": "genai/guide.md" },   
     { "title": "GenAI Basics", "path": "genai/topics/basics.md" },
     { "title": "History of Generative AI", "path": "genai/topics/history.md" },
     { "title": "Generative Models Overview", "path": "genai/topics/generative_models.md" },
